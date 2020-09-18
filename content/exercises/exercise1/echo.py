@@ -22,7 +22,6 @@ def predict():
         data["response"] = params.get("msg")
         translated_text = translator.translate(data["response"], src='en', dest="es")
         data["translated_text"] = translated_text.text
-
         data["success"] = True
 
     # return a response in json format 
