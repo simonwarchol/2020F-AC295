@@ -19,4 +19,9 @@ content/readings/.DS_Store
 .DS_Store*
 =======
 .DS_Store
+<<<<<<< HEAD
 >>>>>>> 698064c2000a86d4d789ff6e839464bd94be2432
+=======
+content/.DS_Store
+content/readings/.DS_Store
+>>>>>>> 9214dbfe0c14d3bdb1c0cf550866c1902d46dbd8
